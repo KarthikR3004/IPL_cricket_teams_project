@@ -402,12 +402,12 @@ var playerData = [
 
 var teamData = [
     {
-        "id": 0,
-        "teamFullName": "Gujarat Titan",
-        "sName": "GT",
-        "fullSname":"GT (Gujarat Tistan)" ,
-        "teamIcon": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/GT/Logos/Roundbig/GTroundbig.png",
-        "WonCount": 6,
+        "id": 2,
+        "teamFullName": "Royal Challengers Bangalore",
+        "sName": "RCB",
+        "fullSname":"RCB (Royal challengers Bangalore)" ,
+        "teamIcon": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/RCB/Logos/Roundbig/RCBroundbig.png",
+        "WonCount": 3,
     },
     {
         "id": 3,
@@ -426,20 +426,20 @@ var teamData = [
         "WonCount": 4,
     },
     {
-        "id": 2,
-        "teamFullName": "Royal Challengers Bangalore",
-        "sName": "RCB",
-        "fullSname":"RCB (Royal challengers Bangalore)" ,
-        "teamIcon": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/RCB/Logos/Roundbig/RCBroundbig.png",
-        "WonCount": 3,
+        "id": 7,
+        "teamFullName": "Rajasthan Royals",
+        "sName": "RR",
+        "fullSname":"RR (Rajasthan Royals)" ,
+        "teamIcon": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/RR/Logos/Roundbig/RRroundbig.png",
+        "WonCount": 1,
     },
     {
-        "id": 1,
-        "teamFullName": "Kolkata Knight Riders",
-        "sName": "KKR",
-        "fullSname":"KKR (Kolkata Knight Riders)" ,
-        "teamIcon": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/KKR/Logos/Roundbig/KKRroundbig.png",
-        "WonCount": 2,
+        "id": 0,
+        "teamFullName": "Gujarat Titan",
+        "sName": "GT",
+        "fullSname":"GT (Gujarat Tistan)" ,
+        "teamIcon": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/GT/Logos/Roundbig/GTroundbig.png",
+        "WonCount": 6,
     },
     {
         "id": 4,
@@ -449,26 +449,23 @@ var teamData = [
         "teamIcon": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/DC/Logos/Roundbig/DCroundbig.png",
         "WonCount": 3,
     },
+        {
+            "id": 6,
+            "teamFullName": "Sunrises Hyderabad",
+            "sName": "SH",
+            "fullSname":"SH (Sunrises Hyderabad)" ,
+            "teamIcon": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/SRH/Logos/Roundbig/SRHroundbig.png",
+            "WonCount": 1,
+        },
+    {
+        "id": 1,
+        "teamFullName": "Kolkata Knight Riders",
+        "sName": "KKR",
+        "fullSname":"KKR (Kolkata Knight Riders)" ,
+        "teamIcon": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/KKR/Logos/Roundbig/KKRroundbig.png",
+        "WonCount": 2,
+    },
    
-
-    {
-        "id": 7,
-        "teamFullName": "Rajasthan Royals",
-        "sName": "RR",
-        "fullSname":"RR (Rajasthan Royals)" ,
-        "teamIcon": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/RR/Logos/Roundbig/RRroundbig.png",
-        "WonCount": 1,
-    },
-    {
-        "id": 6,
-        "teamFullName": "Sunrises Hyderabad",
-        "sName": "SH",
-        "fullSname":"SH (Sunrises Hyderabad)" ,
-        "teamIcon": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/SRH/Logos/Roundbig/SRHroundbig.png",
-        "WonCount": 1,
-    },
-
-
 ];
 
 
